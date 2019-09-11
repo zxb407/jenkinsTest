@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JenkinsTestDemo</string>
+    <string name="git_test">JenkinsTestDemo</string>
 </resources>
