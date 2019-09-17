@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">JenkinsTestDemo</string>
+<<<<<<< HEAD
     <string name="master">master_02444</string>
+=======
+    <string name="master">master_01</string>
+>>>>>>> 0fb04fb099c4729d9a5c4808e0e1fb796bf8279a
 </resources>
